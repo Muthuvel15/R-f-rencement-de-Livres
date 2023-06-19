@@ -12,8 +12,8 @@ Cette application mobile en React Native a pour objectif d'afficher et de gérer
 
 ## Captures d'écran
 
-![Capture d'écran 1](screenshots/screen1.png)
-![Capture d'écran 2](screenshots/screen2.png)
+![Capture d'écran 1](./images/screen1.png)
+![Capture d'écran 2](./images/screen2.png)
 
 ## Installation
 
