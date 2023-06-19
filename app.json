@@ -3,7 +3,7 @@
     "name": "TP_ref_livre",
     "slug": "TP_ref_livre",
     "version": "1.0.0",
-    "orientation": "portrait",
+    "orientation": " ",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
